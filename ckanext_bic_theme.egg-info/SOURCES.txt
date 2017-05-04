@@ -5,6 +5,7 @@ requirements.txt
 setup.cfg
 setup.py
 ckanext/__init__.py
+ckanext/plugin.py
 ckanext/bic_theme/__init__.py
 ckanext/bic_theme/plugin.py
 ckanext/bic_theme/tests/__init__.py
