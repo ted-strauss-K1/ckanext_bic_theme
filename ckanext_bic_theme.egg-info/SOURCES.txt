@@ -1,0 +1,17 @@
+LICENSE
+MANIFEST.in
+README.rst
+requirements.txt
+setup.cfg
+setup.py
+ckanext/__init__.py
+ckanext/bic_theme/__init__.py
+ckanext/bic_theme/plugin.py
+ckanext/bic_theme/tests/__init__.py
+ckanext/bic_theme/tests/test_plugin.py
+ckanext_bic_theme.egg-info/PKG-INFO
+ckanext_bic_theme.egg-info/SOURCES.txt
+ckanext_bic_theme.egg-info/dependency_links.txt
+ckanext_bic_theme.egg-info/entry_points.txt
+ckanext_bic_theme.egg-info/namespace_packages.txt
+ckanext_bic_theme.egg-info/top_level.txt
